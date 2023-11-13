@@ -50,3 +50,4 @@ rsconnect/
 
 /.quarto/
 .DS_Store
+_book
