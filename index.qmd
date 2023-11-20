@@ -1,5 +1,5 @@
 # Preface {.unnumbered}
 
-This is a test Quarto book.fdsa fsa
+This is a test Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
