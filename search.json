@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "docs.researchequals.com",
+    "title": "Knowledge Base",
     "section": "",
     "text": "Preface\nThis is a test Quarto book. Blablabla\nTo learn more about Quarto books visit https://quarto.org/docs/books."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
+    "objectID": "intro.html#preface",
+    "href": "intro.html#preface",
     "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nI like big peaches and I cannot lie.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "section": "1.1 Preface",
+    "text": "1.1 Preface\nThis is a test Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nThis is a book created from markdown and executable code.\nI like big peaches and I cannot lie.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "summary.html",
