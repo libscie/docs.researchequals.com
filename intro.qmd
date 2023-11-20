@@ -2,6 +2,6 @@
 
 This is a book created from markdown and executable code.
 
-I like big butts and I cannot lie.
+I like big peaches and I cannot lie.
 
 See @knuth84 for additional discussion of literate programming.
