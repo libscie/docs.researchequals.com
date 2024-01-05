@@ -1,5 +1,9 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a test Quarto book. Blablabla
+Welcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!
+
+:::{.callout-info}
+Have additions for the knowledge base? Click the `Edit this page` or `Report an issue` buttons on the right, or simply send us an email on `<info@libscie.org>` 😊
+:::
