@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SarahanneMField",
+      "name": "SarahanneMField",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99656061?v=4",
+      "profile": "https://github.com/SarahanneMField",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "dvanravenzwaaij",
+      "name": "dvanravenzwaaij",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55192243?v=4",
+      "profile": "https://github.com/dvanravenzwaaij",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "chartgerink",
+      "name": "Chris Hartgerink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2946344?v=4",
+      "profile": "https://chjh.nl",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "docs.researchequals.com",
+  "projectOwner": "libscie"
+}
