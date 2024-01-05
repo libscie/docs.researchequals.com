@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SarahanneMField",
+      "name": "SarahanneMField",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99656061?v=4",
+      "profile": "https://github.com/SarahanneMField",
+      "contributions": [
+        "ideas",
+        "doc",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "docs.researchequals.com",
+  "projectOwner": "libscie"
+}
