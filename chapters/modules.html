@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Knowledge Base</title>
+<title>Knowledge Base - What are modules?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,46 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./chapters/getting-started.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/exercise-modules.html" rel="next">
+<link href="../chapters/getting-started.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,10 +91,10 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./symbol3.svg" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../symbol3.svg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Knowledge Base</span>
     </a>
   </div>
@@ -89,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Welcome</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/getting-started.html">Getting started</a></li><li class="breadcrumb-item"><a href="../chapters/modules.html">What are modules?</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -111,13 +131,13 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./chapters/getting-started.html" class="sidebar-item-text sidebar-link">
+            <a href="../chapters/getting-started.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Getting started</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -126,31 +146,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/modules.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/modules.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">What are modules?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/exercise-modules.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/exercise-modules.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Exercise: Modular thinking</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/invisible-labor.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/invisible-labor.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Do we get seen for our work?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/collaboration.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/collaboration.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">How do we collaborate?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/collections.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/collections.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">How do we curate research?</span></a>
   </div>
 </li>
@@ -158,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
   </div>
 </li>
@@ -172,16 +192,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#why-do-we-even-need-modules" id="toc-why-do-we-even-need-modules" class="nav-link" data-scroll-target="#why-do-we-even-need-modules">Why do we even need modules?</a>
+  <ul class="collapse">
+  <li><a href="#selective-publication" id="toc-selective-publication" class="nav-link" data-scroll-target="#selective-publication">Selective publication</a></li>
+  <li><a href="#storytelling-in-articles" id="toc-storytelling-in-articles" class="nav-link" data-scroll-target="#storytelling-in-articles">Storytelling in articles</a></li>
+  </ul></li>
+  <li><a href="#where-do-modules-fit-in" id="toc-where-do-modules-fit-in" class="nav-link" data-scroll-target="#where-do-modules-fit-in">Where do modules fit in?</a>
+  <ul class="collapse">
+  <li><a href="#visual-representation" id="toc-visual-representation" class="nav-link" data-scroll-target="#visual-representation">Visual representation</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/libscie/docs.researchequals.com/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/libscie/docs.researchequals.com/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/libscie/docs.researchequals.com/edit/main/chapters/modules.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/libscie/docs.researchequals.com/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Knowledge Base</h1>
+<h1 class="title">What are modules?</h1>
 </div>
 
 
@@ -196,15 +225,103 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="welcome" class="level1 unnumbered">
-<h1 class="unnumbered">Welcome</h1>
-<p>Welcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜</p>
-<p>This knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!</p>
-<div class="callout-info">
-<p>Have additions for the knowledge base? Click the <code>Edit this page</code> or <code>Report an issue</code> buttons on the right, or simply send us an email on <code>&lt;info@libscie.org&gt;</code> 😊</p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Research modules are the individual steps of a research process. By publishing modules, each step of the process becomes citable and findings receive more context. A module can include text, data, code, or any other form of research output. These serve as the building blocks of findings.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
+<div class="callout-title-container flex-fill">
+Prefer to learn with a video? Click here
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx6gcjPT3uM?si=YnnRwVQNyES33FUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+</section>
+<section id="why-do-we-even-need-modules" class="level2">
+<h2 class="anchored" data-anchor-id="why-do-we-even-need-modules">Why do we even need modules?</h2>
+<p>In order to introduce the concept of research modules, we go back to the fundamentals of research. One such fundamental principle is that <strong>research is the process of documenting information</strong>. This fundamental principle can already help us highlight some of the issues with how we document the process now.</p>
+<section id="selective-publication" class="level3">
+<h3 class="anchored" data-anchor-id="selective-publication">Selective publication</h3>
+<p>If we think about a 100 research studies being done by authors, we ultimately only see a subset of that work in the research literature.</p>
+<p><img src="../public/20230206cohort-modules/Slide3.png" class="img-fluid"></p>
+<p>If only part of all the work that is done gets published, a lot of research work remains undocumented. This means we are not documenting what information we are producing, regardless of how reliable it may be.</p>
+</section>
+<section id="storytelling-in-articles" class="level3">
+<h3 class="anchored" data-anchor-id="storytelling-in-articles">Storytelling in articles</h3>
+<p>When we zoom in on one of those research articles that does get selected for publication, we can start asking a different question around the documentation of the research process: Is the purpose of a research article to document the research process?</p>
+<p>Being published is often seen as a heuristic for being of high-quality, because it has been reviewed and that some third party decided to publish it. But in the end, the fundamental principle of research is not about how popular or how many approvals the research gets - it is about the process.</p>
+<p>As such, when we see a research article, we see a story or a narrative about what happened. We see a reconstruction and we only get to see what is chosen to be displayed (always to varying degrees). Hence, we do not know what happened before - we know what the reconstruction is.</p>
+<p><img src="../public/20230206cohort-modules/Slide5a.png" class="img-fluid"></p>
+<p>If we had the power to see the process for a paper, we might be able to distinguish the quality of the two papers displayed above. But how can we really know if we are presented with a paper, which of the two occurred? Or what other process may have occurred that we have not even thought of?</p>
+<p>The process behind the article might be highly meticulous, it might include a lot of back and forth, or it may even contain some practices that are considered shortcuts by many. All to say, we do not know what the process was like except for the story we are told.</p>
+<!-- Or a research process that can be harshly defined as HARKing or p-hacking, but I’ll redefine in a moment. -->
+<p>Now this may be fine for other domains in our society, like literature, but in research it is not. That’s because, the <strong>understanding that research brings can only be as good as the process</strong>. So when we think back, we might have an output where we know for some reason there is a regular empirical cycle behind it.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Principles of research
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Research is the process of documenting information</li>
+<li>Understanding that research brings can only be as good as the process</li>
+</ol>
+</div>
+</div>
+</section>
+</section>
+<section id="where-do-modules-fit-in" class="level2">
+<h2 class="anchored" data-anchor-id="where-do-modules-fit-in">Where do modules fit in?</h2>
+<p>Modules are an alternative publishing format for articles <span class="citation" data-cites="kirczModularityNextForm1998">(introduced in <a href="../references.html#ref-kirczModularityNextForm1998" role="doc-biblioref">Kircz 1998</a>)</span>. They are the building blocks of any research study - the building blocks that are necessary. Modules are published on an ongoing basis, even before a traditional research article may be published.</p>
+<p>In a qualitative study, we know beforehand we produce interview protocols, transcripts, coding protocols, and more to represent the research process. Each of these are individual modules.</p>
+<p>In a quantitative study, we know beforehand we produce data collection materials, data, analysis code, and more to represent the research process. Each of these are individual modules too.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Modules can contain any kind of output you may create during your research. This includes data files, code, or other non-text outputs.</p>
+</div>
+</div>
+<section id="visual-representation" class="level3">
+<h3 class="anchored" data-anchor-id="visual-representation">Visual representation</h3>
+<p>We can directly compare modular publishing to article publishing, to make the concept tangible. Take for example the following slide:</p>
+<p><img src="../public/20230206cohort-modules/Slide11.png" class="img-fluid"></p>
+<p>In this situation we have the power to see the research process that is behind an article (left). These steps are represented on the right as individual modules. Each module is designated a DOI, to make it citable, and gets linked to any previous modules of relevance. Each module also has to say what step of the process it is supposed to represent (more on that later).</p>
+<p>Here we have another example:</p>
+<p><img src="../public/20230206cohort-modules/Slide12.png" class="img-fluid"></p>
+<p>In this situation, the research process included updating the theory. Articles have a hard time representing this (left), but with modules (right) we include this update as part of the research process. We can see that there is a theory before and after the first <code>Prediction</code> module.</p>
+<p>This kind of learning is messy and often does not get shared because of it, but we believe it is valuable to understand the research process.</p>
+<p>Another example we want to highlight where modules can help, is where articles make something problematic that can be seen as part of the research process.</p>
+<p><img src="../public/20230206cohort-modules/Slide13.png" class="img-fluid"></p>
+<p>Many researchers condemn the process depicted on the left as cutting corners (p-hacking, HARKing). It causes problems because it can create overly optimistic findings, and is hard to spot reliably after the fact. When documenting the research process with modules (right), what is considered “cutting corners” becomes part of the documented research process.</p>
+<p>In sum, we can say research modules are the steps that go into a research process, and by sharing those steps over time we can understand how good our process and the resulting understanding actually is. In the next section you will find an exercise to practice modular thinking.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-kirczModularityNextForm1998" class="csl-entry" role="listitem">
+Kircz, Joost G. 1998. <span>“Modularity: The Next Form of Scientific Information Presentation?”</span> <em>Journal of Documentation</em> 54 (2): 210–35. <a href="https://doi.org/10.1108/EUM0000000007185">https://doi.org/10.1108/EUM0000000007185</a>.
+</div>
+</div>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -443,10 +560,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../chapters/getting-started.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Getting started</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./chapters/getting-started.html" class="pagination-link">
-        <span class="nav-page-text">Getting started</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/exercise-modules.html" class="pagination-link">
+        <span class="nav-page-text">Exercise: Modular thinking</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

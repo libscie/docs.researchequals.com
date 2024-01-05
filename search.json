@@ -4,27 +4,48 @@
     "href": "index.html",
     "title": "Knowledge Base",
     "section": "",
-    "text": "Preface\nThis is a test Quarto book. Blablabla\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Welcome\nWelcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜\nThis knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!\n\nHave additions for the knowledge base? Click the Edit this page or Report an issue buttons on the right, or simply send us an email on &lt;info@libscie.org&gt; 😊"
   },
   {
-    "objectID": "intro.html#preface",
-    "href": "intro.html#preface",
-    "title": "1  Introduction",
-    "section": "1.1 Preface",
-    "text": "1.1 Preface\nThis is a test Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nThis is a book created from markdown and executable code.\nI like big peaches and I cannot lie.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "chapters/getting-started.html",
+    "href": "chapters/getting-started.html",
+    "title": "Getting started",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "text": "In this section of the knowledge base we will walk you through the core elements of modules and modular publishing.\nBy the end of this section you will be ready to publish your first module!"
+  },
+  {
+    "objectID": "chapters/modules.html#summary",
+    "href": "chapters/modules.html#summary",
+    "title": "What are modules?",
+    "section": "Summary",
+    "text": "Summary\nResearch modules are the individual steps of a research process. By publishing modules, each step of the process becomes citable and findings receive more context. A module can include text, data, code, or any other form of research output. These serve as the building blocks of findings.\n\n\n\n\n\n\nPrefer to learn with a video? Click here"
+  },
+  {
+    "objectID": "chapters/modules.html#why-do-we-even-need-modules",
+    "href": "chapters/modules.html#why-do-we-even-need-modules",
+    "title": "What are modules?",
+    "section": "Why do we even need modules?",
+    "text": "Why do we even need modules?\nIn order to introduce the concept of research modules, we go back to the fundamentals of research. One such fundamental principle is that research is the process of documenting information. This fundamental principle can already help us highlight some of the issues with how we document the process now.\n\nSelective publication\nIf we think about a 100 research studies being done by authors, we ultimately only see a subset of that work in the research literature.\n\nIf only part of all the work that is done gets published, a lot of research work remains undocumented. This means we are not documenting what information we are producing, regardless of how reliable it may be.\n\n\nStorytelling in articles\nWhen we zoom in on one of those research articles that does get selected for publication, we can start asking a different question around the documentation of the research process: Is the purpose of a research article to document the research process?\nBeing published is often seen as a heuristic for being of high-quality, because it has been reviewed and that some third party decided to publish it. But in the end, the fundamental principle of research is not about how popular or how many approvals the research gets - it is about the process.\nAs such, when we see a research article, we see a story or a narrative about what happened. We see a reconstruction and we only get to see what is chosen to be displayed (always to varying degrees). Hence, we do not know what happened before - we know what the reconstruction is.\n\nIf we had the power to see the process for a paper, we might be able to distinguish the quality of the two papers displayed above. But how can we really know if we are presented with a paper, which of the two occurred? Or what other process may have occurred that we have not even thought of?\nThe process behind the article might be highly meticulous, it might include a lot of back and forth, or it may even contain some practices that are considered shortcuts by many. All to say, we do not know what the process was like except for the story we are told.\n\nNow this may be fine for other domains in our society, like literature, but in research it is not. That’s because, the understanding that research brings can only be as good as the process. So when we think back, we might have an output where we know for some reason there is a regular empirical cycle behind it.\n\n\n\n\n\n\nPrinciples of research\n\n\n\n\nResearch is the process of documenting information\nUnderstanding that research brings can only be as good as the process"
+  },
+  {
+    "objectID": "chapters/modules.html#where-do-modules-fit-in",
+    "href": "chapters/modules.html#where-do-modules-fit-in",
+    "title": "What are modules?",
+    "section": "Where do modules fit in?",
+    "text": "Where do modules fit in?\nModules are an alternative publishing format for articles (introduced in Kircz 1998). They are the building blocks of any research study - the building blocks that are necessary. Modules are published on an ongoing basis, even before a traditional research article may be published.\nIn a qualitative study, we know beforehand we produce interview protocols, transcripts, coding protocols, and more to represent the research process. Each of these are individual modules.\nIn a quantitative study, we know beforehand we produce data collection materials, data, analysis code, and more to represent the research process. Each of these are individual modules too.\n\n\n\n\n\n\nNote\n\n\n\nModules can contain any kind of output you may create during your research. This includes data files, code, or other non-text outputs.\n\n\n\nVisual representation\nWe can directly compare modular publishing to article publishing, to make the concept tangible. Take for example the following slide:\n\nIn this situation we have the power to see the research process that is behind an article (left). These steps are represented on the right as individual modules. Each module is designated a DOI, to make it citable, and gets linked to any previous modules of relevance. Each module also has to say what step of the process it is supposed to represent (more on that later).\nHere we have another example:\n\nIn this situation, the research process included updating the theory. Articles have a hard time representing this (left), but with modules (right) we include this update as part of the research process. We can see that there is a theory before and after the first Prediction module.\nThis kind of learning is messy and often does not get shared because of it, but we believe it is valuable to understand the research process.\nAnother example we want to highlight where modules can help, is where articles make something problematic that can be seen as part of the research process.\n\nMany researchers condemn the process depicted on the left as cutting corners (p-hacking, HARKing). It causes problems because it can create overly optimistic findings, and is hard to spot reliably after the fact. When documenting the research process with modules (right), what is considered “cutting corners” becomes part of the documented research process.\nIn sum, we can say research modules are the steps that go into a research process, and by sharing those steps over time we can understand how good our process and the resulting understanding actually is. In the next section you will find an exercise to practice modular thinking.\n\n\n\n\nKircz, Joost G. 1998. “Modularity: The Next Form of Scientific Information Presentation?” Journal of Documentation 54 (2): 210–35. https://doi.org/10.1108/EUM0000000007185."
+  },
+  {
+    "objectID": "chapters/exercise-modules.html",
+    "href": "chapters/exercise-modules.html",
+    "title": "Exercise: Modular thinking",
+    "section": "",
+    "text": "A big part in modular publishing is about identifying what steps you are taking in your research. This is not something we are used to doing, and this exercise will help get you started.\nFor this exercise, you start of with the\n\n\n\n\nflowchart LR\n    A[Research question] --&gt;|What step is missing between the two?| B(Results)\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf you need a drawing tool, we recommend https://draw.io for this exercise"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Kircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185."
   }
 ]

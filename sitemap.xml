@@ -2,18 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.researchequals.com/index.html</loc>
-    <lastmod>2024-01-05T14:06:34.203Z</lastmod>
+    <lastmod>2024-01-05T16:11:20.082Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.researchequals.com/intro.html</loc>
-    <lastmod>2024-01-05T14:06:34.207Z</lastmod>
+    <loc>https://docs.researchequals.com/chapters/getting-started.html</loc>
+    <lastmod>2024-01-05T16:11:20.086Z</lastmod>
   </url>
   <url>
-    <loc>https://docs.researchequals.com/summary.html</loc>
-    <lastmod>2024-01-05T14:06:34.211Z</lastmod>
+    <loc>https://docs.researchequals.com/chapters/modules.html</loc>
+    <lastmod>2024-01-05T16:11:20.090Z</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.researchequals.com/chapters/exercise-modules.html</loc>
+    <lastmod>2024-01-05T16:11:20.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.researchequals.com/chapters/invisible-labor.html</loc>
+    <lastmod>2024-01-05T16:11:20.102Z</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.researchequals.com/chapters/collaboration.html</loc>
+    <lastmod>2024-01-05T16:11:20.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.researchequals.com/chapters/collections.html</loc>
+    <lastmod>2024-01-05T16:11:20.110Z</lastmod>
   </url>
   <url>
     <loc>https://docs.researchequals.com/references.html</loc>
-    <lastmod>2024-01-05T14:06:34.215Z</lastmod>
+    <lastmod>2024-01-05T16:11:20.122Z</lastmod>
   </url>
 </urlset>
