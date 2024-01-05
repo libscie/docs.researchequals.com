@@ -20,8 +20,13 @@ book:
         href: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: chapters/getting-started.qmd
+      chapters:
+        - chapters/modules.qmd
+        - chapters/exercise-modules.qmd
+        - chapters/invisible-labor.qmd
+        - chapters/collaboration.qmd
+        - chapters/collections.qmd
     - references.qmd
 
 bibliography: references.bib

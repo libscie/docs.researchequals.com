@@ -1,0 +1,5 @@
+# Getting started
+
+In this section of the knowledge base we will walk you through the core elements of modules and modular publishing. 
+
+By the end of this section you will be ready to publish your first module!

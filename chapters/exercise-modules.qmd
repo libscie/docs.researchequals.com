@@ -1,0 +1,13 @@
+# Exercise: Modular thinking {.unnumbered}
+
+A big part in modular publishing is about identifying what steps you are taking in your research. This is not something we are used to doing, and this exercise will help get you started.
+
+For this exercise, you start of with the 
+```{mermaid}
+flowchart LR
+    A[Research question] -->|What step is missing between the two?| B(Results)
+```
+
+:::{.callout-note}
+If you need a drawing tool, we recommend <https://draw.io> for this exercise
+:::
