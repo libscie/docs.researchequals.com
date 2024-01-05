@@ -1,11 +1,26 @@
 # Exercise: Modular thinking {.unnumbered}
 
-A big part in modular publishing is about identifying what steps you are taking in your research. This is not something we are used to doing, and this exercise will help get you started.
+Modular publishing is a big change. To help you along, we want to introduce you to **modular thinking** with a little exercise. 
 
-For this exercise, you start of with the 
+A big part in modular publishing is about learning to identify what steps you are taking in your research. This is not something we are used to doing, and this exercise will help you start identifying what steps are involved in your work.
+
+For this exercise, you start of with the first step and final step of a research process. We picked `Research question` as the first step and `Results` as the final one for this exercise.
+
+:::{callout-idea}
+Repeatedly add a missing step in between two already existing steps in the diagram. Try to do this for 10 minutes to exhaust your options.
+:::
+
 ```{mermaid}
 flowchart LR
-    A[Research question] -->|What step is missing between the two?| B(Results)
+    A(Research question) --> B(Results)
+```
+
+By adding one step in between, your research process would now look like:
+
+```{mermaid}
+flowchart LR
+    A(Research question) --> C(...)
+    C --> B(Results)
 ```
 
 :::{.callout-note}
