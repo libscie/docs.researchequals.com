@@ -1,5 +1,29 @@
 # Getting started
 
-In this section of the knowledge base we will walk you through the core elements of modules and modular publishing. 
+In this section of the knowledge base we will walk you through the core elements of modules and modular publishing. After that you will be ready to publish your first module!
 
-By the end of this section you will be ready to publish your first module!
+Be sure to walk through this page to create and set up your account, so it is ready for publishing. The next sections will assume you completed the steps outlined below.
+
+:::{.callout-caution}
+# Create a ResearchEquals account
+
+[Create your ResearchEquals account](https://www.researchequals.com/signup), if you don't yet have one. 
+:::
+
+## Required setup for publishing
+
+Once you signed up, there are two important steps to complete before you can publish on ResearchEquals.
+
+### Verify your email
+
+Verifying your email is as straightforward as it sounds. You need to check your email and click the provided link.
+
+Sometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the 
+
+### Add your names
+
+## Optional setup
+
+
+
+

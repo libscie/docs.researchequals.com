@@ -1,3 +1,23 @@
-# Do we get seen for our work? {.unnumbered}
+# (In)visible steps {.unnumbered}
+
+In every research project, countless of people and steps are involved. As we saw in [the "What are modules?" section](./modules.qmd), research is the process of documenting information. However, in that section we implied that the processes documented in articles are complete, even though unreliable and reconstructed. Well, the documented processes in articles are also not necessarily complete, because it is incredibly hard to go through all the steps to replicate the study [@ref] more often than not.
+
+<!-- The ref is for the Reproducibility Project: Cancer Biology -->
+
+To make this more relatable, this video is a great demonstration of how difficult it can be to be complete in documenting information.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDA3_5982h8?si=Ibramptyc_FhTIdW&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The kids in the video get increasingly frustrated, because many implied actions are not being taken into account. The parent in the video is certainly playing more naive than is necessary, but it highlights an important question: What is it that we know that the other person may need to know?
+
+In research, it is similar - what do we need to communicate to sufficiently document the research process? This is a hard and ever evolving question. There is no perfect. But there are improvements we can make, and that starts by identifying what information is unavailable to us.
+
+## Exercise
+
+You previously created a bucket of steps that are relevant for your research process (see [Exercise: Modular thinking](./exercise-modules.qmd)). Get the research steps you produced for that exercise to complete this section. 
+
+:::{.callout-note}
+Which research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?
+:::
+
+We recommend to separate them out visually, by sorting them left-right (or top-bottom).

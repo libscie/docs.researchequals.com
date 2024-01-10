@@ -24,7 +24,9 @@ book:
       chapters:
         - chapters/modules.qmd
         - chapters/exercise-modules.qmd
+        - chapters/first-module.qmd
         - chapters/invisible-labor.qmd
+        # connections between steps
         - chapters/collaboration.qmd
         - chapters/collections.qmd
     - references.qmd
