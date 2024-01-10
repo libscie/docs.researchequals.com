@@ -7,11 +7,18 @@
     "text": "Welcome\nWelcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜\nThis knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!\n\nHave additions for the knowledge base? Click the Edit this page or Report an issue buttons on the right, or simply send us an email on &lt;info@libscie.org&gt; 😊"
   },
   {
-    "objectID": "chapters/getting-started.html",
-    "href": "chapters/getting-started.html",
+    "objectID": "chapters/getting-started.html#required-setup-for-publishing",
+    "href": "chapters/getting-started.html#required-setup-for-publishing",
     "title": "Getting started",
-    "section": "",
-    "text": "In this section of the knowledge base we will walk you through the core elements of modules and modular publishing.\nBy the end of this section you will be ready to publish your first module!"
+    "section": "Required setup for publishing",
+    "text": "Required setup for publishing\nOnce you signed up, there are two important steps to complete before you can publish on ResearchEquals.\n\nVerify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the\n\n\nAdd your names"
+  },
+  {
+    "objectID": "chapters/getting-started.html#optional-setup",
+    "href": "chapters/getting-started.html#optional-setup",
+    "title": "Getting started",
+    "section": "Optional setup",
+    "text": "Optional setup"
   },
   {
     "objectID": "chapters/modules.html#summary",
@@ -40,6 +47,34 @@
     "title": "Exercise: Modular thinking",
     "section": "",
     "text": "Modular publishing is a big change. To help you along, we want to introduce you to modular thinking with a little exercise.\nA big part in modular publishing is about learning to identify what steps you are taking in your research. This is not something we are used to doing, and this exercise will help you start identifying what steps are involved in your work.\nFor this exercise, you start off with the first step and final step of a research process. We picked Research question as the first step and Results as the final one for this exercise. You will be using the results of this exercise in next sections.\n\n\n\n\n\n\nExercise\n\n\n\nRepeatedly add a missing step in between two already existing steps in the diagram. Try to do this for 10 minutes to exhaust your options.\n\n\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[Result]\n\n\n\n\n\nBy adding one step in between, your research process would now look like:\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[Result]\n\n\n\n\n\nKeep adding in steps between two other steps until your ten minutes are up. Really push yourself to find every potential step involved in your research. This will make it look more and more like this:\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[...]\n    C ~~~ D[...]\n    D ~~~ E[Result]\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you need a drawing tool, we recommend https://draw.io for this exercise. Doing it with sticky notes is also helpful!"
+  },
+  {
+    "objectID": "chapters/first-module.html#create-a-draft",
+    "href": "chapters/first-module.html#create-a-draft",
+    "title": "My first module",
+    "section": "Create a draft",
+    "text": "Create a draft\nAnywhere on ResearchEquals, you will find the Draft button at the top-right corner. This way it is always at the ready for when you are ready to create a draft.\n\nWhen you click on it, you will see the first step to creating a module.\n\nHere you will have to enter some title for your module, to help indicate what it is about. This can be compared to an article title, but you have to make it more specific to your module. For example, if you are sharing your research question, you might call it ““.\nThe summary is the abstract for your module. There is no styleguide, and you can approach it how it’s relevant to you. Given that it is a draft, you can also leave it empty for now.\nThe module type helps categorize what kind of module you are sharing. There is no limit to what modules can be, but to get you started, ResearchEquals provides you with some preselected options.\n\nThese options are the steps we discussed in the previous exercise - it may be worth to cross-reference your steps and see how they match up. These preselected options are suggestions that we encountered before, so if you are missing anything, contribute by letting us know.\nNext, you need to select a license for your module. For now, select either “CC0 Public Domain Dedication” or “CC BY 4.0” that are provided on a “pay what you want” basis.\n\nThe color of your module is arbitrary, and is used for displaying your content later on. More important is to select the language you are publishing in.\n\n\n\n\n\n\n\nNote\n\n\n\nResearchEquals facilitates you in publishing, instead of telling you what you can publish. This is also why you can publish in any language of your choosing."
+  },
+  {
+    "objectID": "chapters/first-module.html#prepare-your-draft",
+    "href": "chapters/first-module.html#prepare-your-draft",
+    "title": "My first module",
+    "section": "Prepare your draft",
+    "text": "Prepare your draft\nOnce you created your first draft, you will be presented with a bunch of new information. Let’s familiarize you with the most important sections as highlighted.\n\n\nFirst off, at the top of your draft you will always see what needs to happen before it can be published. In this case, you need to finish adding a main file to your draft. When this is ready it’ll turn green.\n\n\nThe main file is what you want people to see when they come look at your published module. With an article, it is your manuscript - in a module it can be a lot of different things. This is the most important file you are publishing and usually relates to the module type you are publishing. Data module? Dataset. Analysis module? Maybe an R or Python script. Figure module? The actual figure.\nMoving to the next section of our draft, you can actually upload this one main file.\n\n\nOn the left hand side, we get the option to upload a main file and supporting files. The main file we just discussed - the supporting files are additional files that you want to publish to help support the main file and the reader.\nOn the right hand side, you can find and add structured references to other scholarly publications. These references are based off of DOIs only (at the moment) and are indexed as well. This means that your citations here count towards the citation count of those publications.\nWhen you want to upload a file, you will be presented with options to upload your file from various locations.\n\n\nResearchEquals only supports open file formats to ensure that they are accessible and readable to as many people. If you want to be sure, check for your file extension in our supported list.\nFor some files, we support previews within the draft after uploading.\n\n\nThe best supported file format for writing is Markdown, which will allow you to render beautiful text, with headings, code blocks, and equations. Other file formats we support in previewing are Word files, Powerpoint files, and spreadsheets."
+  },
+  {
+    "objectID": "chapters/first-module.html#publish-your-draft",
+    "href": "chapters/first-module.html#publish-your-draft",
+    "title": "My first module",
+    "section": "Publish your draft",
+    "text": "Publish your draft\nIf you followed the steps above, your draft will now fulfill all requirements to be published! You can check this at the top of your draft, where you will see the following green light once all requirements are completed.\n\n\nWhen you click “Publish” you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero.\n\n\n\n\n\n\nWarning\n\n\n\nIf you click “Publish” in the pop-up, the module is irrevocably published. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.\n\n\n\n\nAnd that’s it - that’s how simple it can be to publish a module. What about more complicated situations? We will dive into that together as well - for now, you have seen some of the core bits to hit the ground running."
+  },
+  {
+    "objectID": "chapters/invisible-labor.html#exercise",
+    "href": "chapters/invisible-labor.html#exercise",
+    "title": "(In)visible steps",
+    "section": "Exercise",
+    "text": "Exercise\nYou previously created a bucket of steps that are relevant for your research process (see Exercise: Modular thinking). Get the research steps you produced for that exercise to complete this section.\n\n\n\n\n\n\nNote\n\n\n\nWhich research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?\n\n\nWe recommend to separate them out visually, by sorting them left-right (or top-bottom)."
   },
   {
     "objectID": "references.html",
