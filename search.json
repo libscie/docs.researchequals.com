@@ -4,83 +4,170 @@
     "href": "index.html",
     "title": "Knowledge Base",
     "section": "",
-    "text": "Welcome\nWelcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜\nThis knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!\n\nHave additions for the knowledge base? Click the Edit this page or Report an issue buttons on the right, or simply send us an email on &lt;info@libscie.org&gt; 😊"
+    "text": "Welcome\nWelcome to the ResearchEquals Knowledge Base! Here we provide you with step-by-step guides to become pro in modular publishing and everything else ResearchEquals offers. 💜\nThis knowledge base is always evolving, just like ResearchEquals. If anything is off, it is very likely our fault, not yours. We appreciate any and all feedback on the knowledge base because it is here to help you!\n\nHave additions for the knowledge base? Click the Edit this page or Report an issue buttons on the right, or simply send us an email on &lt;info@libscie.org&gt; 😊",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chapters/getting-started.html",
+    "href": "chapters/getting-started.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "Required setup for publishing\nOnce you signed up, there are two important steps to complete before you can publish on ResearchEquals.",
+    "crumbs": [
+      "Getting started"
+    ]
   },
   {
     "objectID": "chapters/getting-started.html#required-setup-for-publishing",
     "href": "chapters/getting-started.html#required-setup-for-publishing",
     "title": "Getting started",
-    "section": "Required setup for publishing",
-    "text": "Required setup for publishing\nOnce you signed up, there are two important steps to complete before you can publish on ResearchEquals.\n\nVerify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the\n\n\nAdd your names"
+    "section": "",
+    "text": "Verify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the\n\n\nAdd your names",
+    "crumbs": [
+      "Getting started"
+    ]
   },
   {
     "objectID": "chapters/getting-started.html#optional-setup",
     "href": "chapters/getting-started.html#optional-setup",
     "title": "Getting started",
     "section": "Optional setup",
-    "text": "Optional setup"
+    "text": "Optional setup",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "chapters/modules.html",
+    "href": "chapters/modules.html",
+    "title": "What are modules?",
+    "section": "",
+    "text": "Summary\nResearch modules are the individual steps of a research process. By publishing modules, each step of the process becomes citable and findings receive more context. A module can include text, data, code, or any other form of research output. These serve as the building blocks of findings.",
+    "crumbs": [
+      "Getting started",
+      "What are modules?"
+    ]
   },
   {
     "objectID": "chapters/modules.html#summary",
     "href": "chapters/modules.html#summary",
     "title": "What are modules?",
-    "section": "Summary",
-    "text": "Summary\nResearch modules are the individual steps of a research process. By publishing modules, each step of the process becomes citable and findings receive more context. A module can include text, data, code, or any other form of research output. These serve as the building blocks of findings.\n\n\n\n\n\n\nPrefer to learn with a video? Click here"
+    "section": "",
+    "text": "Prefer to learn with a video? Click here",
+    "crumbs": [
+      "Getting started",
+      "What are modules?"
+    ]
   },
   {
     "objectID": "chapters/modules.html#why-do-we-even-need-modules",
     "href": "chapters/modules.html#why-do-we-even-need-modules",
     "title": "What are modules?",
     "section": "Why do we even need modules?",
-    "text": "Why do we even need modules?\nIn order to introduce the concept of research modules, we go back to the fundamentals of research. One such fundamental principle is that research is the process of documenting information. This fundamental principle can already help us highlight some of the issues with how we document the process now.\n\nSelective publication\nIf we think about a 100 research studies being done by authors, we ultimately only see a subset of that work in the research literature.\n\nIf only part of all the work that is done gets published, a lot of research work remains undocumented. This means we are not documenting what information we are producing, regardless of how reliable it may be.\n\n\nStorytelling in articles\nWhen we zoom in on one of those research articles that does get selected for publication, we can start asking a different question around the documentation of the research process: Is the purpose of a research article to document the research process?\nBeing published is often seen as a heuristic for being of high-quality, because it has been reviewed and that some third party decided to publish it. But in the end, the fundamental principle of research is not about how popular or how many approvals the research gets - it is about the process.\nAs such, when we see a research article, we see a story or a narrative about what happened. We see a reconstruction and we only get to see what is chosen to be displayed (always to varying degrees). Hence, we do not know what happened before - we know what the reconstruction is.\n\nIf we had the power to see the process for a paper, we might be able to distinguish the quality of the two papers displayed above. But how can we really know if we are presented with a paper, which of the two occurred? Or what other process may have occurred that we have not even thought of?\nThe process behind the article might be highly meticulous, it might include a lot of back and forth, or it may even contain some practices that are considered shortcuts by many. All to say, we do not know what the process was like except for the story we are told.\n\nNow this may be fine for other domains in our society, like literature, but in research it is not. That’s because, the understanding that research brings can only be as good as the process. So when we think back, we might have an output where we know for some reason there is a regular empirical cycle behind it.\n\n\n\n\n\n\nPrinciples of research\n\n\n\n\nResearch is the process of documenting information\nUnderstanding that research brings can only be as good as the process"
+    "text": "Why do we even need modules?\nIn order to introduce the concept of research modules, we go back to the fundamentals of research. One such fundamental principle is that research is the process of documenting information. This fundamental principle can already help us highlight some of the issues with how we document the process now.\n\nSelective publication\nIf we think about a 100 research studies being done by authors, we ultimately only see a subset of that work in the research literature.\n\nIf only part of all the work that is done gets published, a lot of research work remains undocumented. This means we are not documenting what information we are producing, regardless of how reliable it may be.\n\n\nStorytelling in articles\nWhen we zoom in on one of those research articles that does get selected for publication, we can start asking a different question around the documentation of the research process: Is the purpose of a research article to document the research process?\nBeing published is often seen as a heuristic for being of high-quality, because it has been reviewed and that some third party decided to publish it. But in the end, the fundamental principle of research is not about how popular or how many approvals the research gets - it is about the process.\nAs such, when we see a research article, we see a story or a narrative about what happened. We see a reconstruction and we only get to see what is chosen to be displayed (always to varying degrees). Hence, we do not know what happened before - we know what the reconstruction is.\n\nIf we had the power to see the process for a paper, we might be able to distinguish the quality of the two papers displayed above. But how can we really know if we are presented with a paper, which of the two occurred? Or what other process may have occurred that we have not even thought of?\nThe process behind the article might be highly meticulous, it might include a lot of back and forth, or it may even contain some practices that are considered shortcuts by many. All to say, we do not know what the process was like except for the story we are told.\n\nNow this may be fine for other domains in our society, like literature, but in research it is not. That’s because, the understanding that research brings can only be as good as the process. So when we think back, we might have an output where we know for some reason there is a regular empirical cycle behind it.\n\n\n\n\n\n\nPrinciples of research\n\n\n\n\nResearch is the process of documenting information\nUnderstanding that research brings can only be as good as the process",
+    "crumbs": [
+      "Getting started",
+      "What are modules?"
+    ]
   },
   {
     "objectID": "chapters/modules.html#where-do-modules-fit-in",
     "href": "chapters/modules.html#where-do-modules-fit-in",
     "title": "What are modules?",
     "section": "Where do modules fit in?",
-    "text": "Where do modules fit in?\nModules are an alternative publishing format for articles (introduced in Kircz 1998). They are the building blocks of any research study - the building blocks that are necessary. Modules are published on an ongoing basis, even before a traditional research article may be published.\nIn a qualitative study, we know beforehand we produce interview protocols, transcripts, coding protocols, and more to represent the research process. Each of these are individual modules.\nIn a quantitative study, we know beforehand we produce data collection materials, data, analysis code, and more to represent the research process. Each of these are individual modules too.\n\n\n\n\n\n\nNote\n\n\n\nModules can contain any kind of output you may create during your research. This includes data files, code, or other non-text outputs.\n\n\n\nVisual representation\nWe can directly compare modular publishing to article publishing, to make the concept tangible. Take for example the following slide:\n\nIn this situation we have the power to see the research process that is behind an article (left). These steps are represented on the right as individual modules. Each module is designated a DOI, to make it citable, and gets linked to any previous modules of relevance. Each module also has to say what step of the process it is supposed to represent (more on that later).\nHere we have another example:\n\nIn this situation, the research process included updating the theory. Articles have a hard time representing this (left), but with modules (right) we include this update as part of the research process. We can see that there is a theory before and after the first Prediction module.\nThis kind of learning is messy and often does not get shared because of it, but we believe it is valuable to understand the research process.\nAnother example we want to highlight where modules can help, is where articles make something problematic that can be seen as part of the research process.\n\nMany researchers condemn the process depicted on the left as cutting corners (p-hacking, HARKing). It causes problems because it can create overly optimistic findings, and is hard to spot reliably after the fact. When documenting the research process with modules (right), what is considered “cutting corners” becomes part of the documented research process.\nIn sum, we can say research modules are the steps that go into a research process, and by sharing those steps over time we can understand how good our process and the resulting understanding actually is. In the next section you will find an exercise to practice modular thinking.\n\n\n\n\nKircz, Joost G. 1998. “Modularity: The Next Form of Scientific Information Presentation?” Journal of Documentation 54 (2): 210–35. https://doi.org/10.1108/EUM0000000007185."
+    "text": "Where do modules fit in?\nModules are an alternative publishing format for articles (introduced in Kircz 1998). They are the building blocks of any research study - the building blocks that are necessary. Modules are published on an ongoing basis, even before a traditional research article may be published.\nIn a qualitative study, we know beforehand we produce interview protocols, transcripts, coding protocols, and more to represent the research process. Each of these are individual modules.\nIn a quantitative study, we know beforehand we produce data collection materials, data, analysis code, and more to represent the research process. Each of these are individual modules too.\n\n\n\n\n\n\nNote\n\n\n\nModules can contain any kind of output you may create during your research. This includes data files, code, or other non-text outputs.\n\n\n\nVisual representation\nWe can directly compare modular publishing to article publishing, to make the concept tangible. Take for example the following slide:\n\nIn this situation we have the power to see the research process that is behind an article (left). These steps are represented on the right as individual modules. Each module is designated a DOI, to make it citable, and gets linked to any previous modules of relevance. Each module also has to say what step of the process it is supposed to represent (more on that later).\nHere we have another example:\n\nIn this situation, the research process included updating the theory. Articles have a hard time representing this (left), but with modules (right) we include this update as part of the research process. We can see that there is a theory before and after the first Prediction module.\nThis kind of learning is messy and often does not get shared because of it, but we believe it is valuable to understand the research process.\nAnother example we want to highlight where modules can help, is where articles make something problematic that can be seen as part of the research process.\n\nMany researchers condemn the process depicted on the left as cutting corners (p-hacking, HARKing). It causes problems because it can create overly optimistic findings, and is hard to spot reliably after the fact. When documenting the research process with modules (right), what is considered “cutting corners” becomes part of the documented research process.\nIn sum, we can say research modules are the steps that go into a research process, and by sharing those steps over time we can understand how good our process and the resulting understanding actually is. In the next section you will find an exercise to practice modular thinking.\n\n\n\n\nKircz, Joost G. 1998. “Modularity: The Next Form of Scientific Information Presentation?” Journal of Documentation 54 (2): 210–35. https://doi.org/10.1108/EUM0000000007185.",
+    "crumbs": [
+      "Getting started",
+      "What are modules?"
+    ]
   },
   {
     "objectID": "chapters/exercise-modules.html",
     "href": "chapters/exercise-modules.html",
     "title": "Exercise: Modular thinking",
     "section": "",
-    "text": "Modular publishing is a big change. To help you along, we want to introduce you to modular thinking with a little exercise.\nA big part in modular publishing is about learning to identify what steps you are taking in your research. This is not something we are used to doing, and this exercise will help you start identifying what steps are involved in your work.\nFor this exercise, you start off with the first step and final step of a research process. We picked Research question as the first step and Results as the final one for this exercise. You will be using the results of this exercise in next sections.\n\n\n\n\n\n\nExercise\n\n\n\nRepeatedly add a missing step in between two already existing steps in the diagram. Try to do this for 10 minutes to exhaust your options.\n\n\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[Result]\n\n\n\n\n\nBy adding one step in between, your research process would now look like:\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[Result]\n\n\n\n\n\nKeep adding in steps between two other steps until your ten minutes are up. Really push yourself to find every potential step involved in your research. This will make it look more and more like this:\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[...]\n    C ~~~ D[...]\n    D ~~~ E[Result]\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you need a drawing tool, we recommend https://draw.io for this exercise. Doing it with sticky notes is also helpful!"
+    "text": "Modular publishing is a big change. To help you along, we want to introduce you to modular thinking with a little exercise.\nA big part in modular publishing is about learning to identify what steps you are taking in your research. This is not something we are used to doing, and this exercise will help you start identifying what steps are involved in your work.\nFor this exercise, you start off with the first step and final step of a research process. We picked Research question as the first step and Results as the final one for this exercise. You will be using the results of this exercise in next sections.\n\n\n\n\n\n\nExercise\n\n\n\nRepeatedly add a missing step in between two already existing steps in the diagram. Try to do this for 10 minutes to exhaust your options.\n\n\n\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[Result]\n\n\n\n\n\n\nBy adding one step in between, your research process would now look like:\n\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[Result]\n\n\n\n\n\n\nKeep adding in steps between two other steps until your ten minutes are up. Really push yourself to find every potential step involved in your research. This will make it look more and more like this:\n\n\n\n\n\nflowchart LR\n    A[Research Question] ~~~ B[...]\n    B ~~~ C[...]\n    C ~~~ D[...]\n    D ~~~ E[Result]\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you need a drawing tool, we recommend https://draw.io for this exercise. Doing it with sticky notes is also helpful!",
+    "crumbs": [
+      "Getting started",
+      "Exercise: Modular thinking"
+    ]
+  },
+  {
+    "objectID": "chapters/first-module.html",
+    "href": "chapters/first-module.html",
+    "title": "My first module",
+    "section": "",
+    "text": "Create a draft\nAnywhere on ResearchEquals, you will find the Draft button at the top-right corner. This way it is always at the ready for when you are ready to create a draft.\nWhen you click on it, you will see the first step to creating a module.\nHere you will have to enter some title for your module, to help indicate what it is about. This can be compared to an article title, but you have to make it more specific to your module. For example, if you are sharing your research question, you might call it ““.\nThe summary is the abstract for your module. There is no styleguide, and you can approach it how it’s relevant to you. Given that it is a draft, you can also leave it empty for now.\nThe module type helps categorize what kind of module you are sharing. There is no limit to what modules can be, but to get you started, ResearchEquals provides you with some preselected options.\nThese options are the steps we discussed in the previous exercise - it may be worth to cross-reference your steps and see how they match up. These preselected options are suggestions that we encountered before, so if you are missing anything, contribute by letting us know.\nNext, you need to select a license for your module. For now, select either “CC0 Public Domain Dedication” or “CC BY 4.0” that are provided on a “pay what you want” basis.\nThe color of your module is arbitrary, and is used for displaying your content later on. More important is to select the language you are publishing in.",
+    "crumbs": [
+      "Getting started",
+      "My first module"
+    ]
   },
   {
     "objectID": "chapters/first-module.html#create-a-draft",
     "href": "chapters/first-module.html#create-a-draft",
     "title": "My first module",
-    "section": "Create a draft",
-    "text": "Create a draft\nAnywhere on ResearchEquals, you will find the Draft button at the top-right corner. This way it is always at the ready for when you are ready to create a draft.\n\nWhen you click on it, you will see the first step to creating a module.\n\nHere you will have to enter some title for your module, to help indicate what it is about. This can be compared to an article title, but you have to make it more specific to your module. For example, if you are sharing your research question, you might call it ““.\nThe summary is the abstract for your module. There is no styleguide, and you can approach it how it’s relevant to you. Given that it is a draft, you can also leave it empty for now.\nThe module type helps categorize what kind of module you are sharing. There is no limit to what modules can be, but to get you started, ResearchEquals provides you with some preselected options.\n\nThese options are the steps we discussed in the previous exercise - it may be worth to cross-reference your steps and see how they match up. These preselected options are suggestions that we encountered before, so if you are missing anything, contribute by letting us know.\nNext, you need to select a license for your module. For now, select either “CC0 Public Domain Dedication” or “CC BY 4.0” that are provided on a “pay what you want” basis.\n\nThe color of your module is arbitrary, and is used for displaying your content later on. More important is to select the language you are publishing in.\n\n\n\n\n\n\n\nNote\n\n\n\nResearchEquals facilitates you in publishing, instead of telling you what you can publish. This is also why you can publish in any language of your choosing."
+    "section": "",
+    "text": "Note\n\n\n\nResearchEquals facilitates you in publishing, instead of telling you what you can publish. This is also why you can publish in any language of your choosing.",
+    "crumbs": [
+      "Getting started",
+      "My first module"
+    ]
   },
   {
     "objectID": "chapters/first-module.html#prepare-your-draft",
     "href": "chapters/first-module.html#prepare-your-draft",
     "title": "My first module",
     "section": "Prepare your draft",
-    "text": "Prepare your draft\nOnce you created your first draft, you will be presented with a bunch of new information. Let’s familiarize you with the most important sections as highlighted.\n\n\nFirst off, at the top of your draft you will always see what needs to happen before it can be published. In this case, you need to finish adding a main file to your draft. When this is ready it’ll turn green.\n\n\nThe main file is what you want people to see when they come look at your published module. With an article, it is your manuscript - in a module it can be a lot of different things. This is the most important file you are publishing and usually relates to the module type you are publishing. Data module? Dataset. Analysis module? Maybe an R or Python script. Figure module? The actual figure.\nMoving to the next section of our draft, you can actually upload this one main file.\n\n\nOn the left hand side, we get the option to upload a main file and supporting files. The main file we just discussed - the supporting files are additional files that you want to publish to help support the main file and the reader.\nOn the right hand side, you can find and add structured references to other scholarly publications. These references are based off of DOIs only (at the moment) and are indexed as well. This means that your citations here count towards the citation count of those publications.\nWhen you want to upload a file, you will be presented with options to upload your file from various locations.\n\n\nResearchEquals only supports open file formats to ensure that they are accessible and readable to as many people. If you want to be sure, check for your file extension in our supported list.\nFor some files, we support previews within the draft after uploading.\n\n\nThe best supported file format for writing is Markdown, which will allow you to render beautiful text, with headings, code blocks, and equations. Other file formats we support in previewing are Word files, Powerpoint files, and spreadsheets."
+    "text": "Prepare your draft\nOnce you created your first draft, you will be presented with a bunch of new information. Let’s familiarize you with the most important sections as highlighted.\n\n\nFirst off, at the top of your draft you will always see what needs to happen before it can be published. In this case, you need to finish adding a main file to your draft. When this is ready it’ll turn green.\n\n\nThe main file is what you want people to see when they come look at your published module. With an article, it is your manuscript - in a module it can be a lot of different things. This is the most important file you are publishing and usually relates to the module type you are publishing. Data module? Dataset. Analysis module? Maybe an R or Python script. Figure module? The actual figure.\nMoving to the next section of our draft, you can actually upload this one main file.\n\n\nOn the left hand side, we get the option to upload a main file and supporting files. The main file we just discussed - the supporting files are additional files that you want to publish to help support the main file and the reader.\nOn the right hand side, you can find and add structured references to other scholarly publications. These references are based off of DOIs only (at the moment) and are indexed as well. This means that your citations here count towards the citation count of those publications.\nWhen you want to upload a file, you will be presented with options to upload your file from various locations.\n\n\nResearchEquals only supports open file formats to ensure that they are accessible and readable to as many people. If you want to be sure, check for your file extension in our supported list.\nFor some files, we support previews within the draft after uploading.\n\n\nThe best supported file format for writing is Markdown, which will allow you to render beautiful text, with headings, code blocks, and equations. Other file formats we support in previewing are Word files, Powerpoint files, and spreadsheets.",
+    "crumbs": [
+      "Getting started",
+      "My first module"
+    ]
   },
   {
     "objectID": "chapters/first-module.html#publish-your-draft",
     "href": "chapters/first-module.html#publish-your-draft",
     "title": "My first module",
     "section": "Publish your draft",
-    "text": "Publish your draft\nIf you followed the steps above, your draft will now fulfill all requirements to be published! You can check this at the top of your draft, where you will see the following green light once all requirements are completed.\n\n\nWhen you click “Publish” you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero.\n\n\n\n\n\n\nWarning\n\n\n\nIf you click “Publish” in the pop-up, the module is irrevocably published. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.\n\n\n\n\nAnd that’s it - that’s how simple it can be to publish a module. What about more complicated situations? We will dive into that together as well - for now, you have seen some of the core bits to hit the ground running."
+    "text": "Publish your draft\nIf you followed the steps above, your draft will now fulfill all requirements to be published! You can check this at the top of your draft, where you will see the following green light once all requirements are completed.\n\n\nWhen you click “Publish” you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero.\n\n\n\n\n\n\nWarning\n\n\n\nIf you click “Publish” in the pop-up, the module is irrevocably published. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.\n\n\n\n\nAnd that’s it - that’s how simple it can be to publish a module. What about more complicated situations? We will dive into that together as well - for now, you have seen some of the core bits to hit the ground running.",
+    "crumbs": [
+      "Getting started",
+      "My first module"
+    ]
+  },
+  {
+    "objectID": "chapters/invisible-labor.html",
+    "href": "chapters/invisible-labor.html",
+    "title": "(In)visible steps",
+    "section": "",
+    "text": "Exercise\nYou previously created a bucket of steps that are relevant for your research process (see Exercise: Modular thinking). Get the research steps you produced for that exercise to complete this section.\nWe recommend to separate them out visually, by sorting them left-right (or top-bottom).",
+    "crumbs": [
+      "Getting started",
+      "(In)visible steps"
+    ]
   },
   {
     "objectID": "chapters/invisible-labor.html#exercise",
     "href": "chapters/invisible-labor.html#exercise",
     "title": "(In)visible steps",
-    "section": "Exercise",
-    "text": "Exercise\nYou previously created a bucket of steps that are relevant for your research process (see Exercise: Modular thinking). Get the research steps you produced for that exercise to complete this section.\n\n\n\n\n\n\nNote\n\n\n\nWhich research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?\n\n\nWe recommend to separate them out visually, by sorting them left-right (or top-bottom)."
+    "section": "",
+    "text": "Note\n\n\n\nWhich research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?",
+    "crumbs": [
+      "Getting started",
+      "(In)visible steps"
+    ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Kircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185."
+    "text": "Kircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185.",
+    "crumbs": [
+      "References"
+    ]
   }
 ]
