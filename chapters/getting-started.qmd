@@ -18,11 +18,15 @@ Once you signed up, there are two important steps to complete before you can pub
 
 Verifying your email is as straightforward as it sounds. You need to check your email and click the provided link.
 
-Sometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the 
+Sometimes the page gets stuck on a loading animation, but the verification will be completed after a few seconds.
 
 ### Add your names
 
-## Optional setup
+In order to start publishing, you must add your first and last name for authoring. We do not force you to use your real name, although in most situations it is advisable.
+
+You can do this by opening the settings by clicking the gear icon in the top right corner:
+
+![](../public/Screenshot%202024-01-26%20at%2016.26.57.png)
 
 
 
