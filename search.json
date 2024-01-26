@@ -24,17 +24,7 @@
     "href": "chapters/getting-started.html#required-setup-for-publishing",
     "title": "Getting started",
     "section": "",
-    "text": "Verify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed once you no longer see the\n\n\nAdd your names",
-    "crumbs": [
-      "Getting started"
-    ]
-  },
-  {
-    "objectID": "chapters/getting-started.html#optional-setup",
-    "href": "chapters/getting-started.html#optional-setup",
-    "title": "Getting started",
-    "section": "Optional setup",
-    "text": "Optional setup",
+    "text": "Verify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed after a few seconds.\n\n\nAdd your names\nIn order to start publishing, you must add your first and last name for authoring. We do not force you to use your real name, although in most situations it is advisable.\nYou can do this by opening the settings by clicking the gear icon in the top right corner:",
     "crumbs": [
       "Getting started"
     ]
@@ -154,10 +144,87 @@
     "href": "chapters/invisible-labor.html#exercise",
     "title": "(In)visible steps",
     "section": "",
-    "text": "Note\n\n\n\nWhich research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?",
+    "text": "Exercise\n\n\n\nWhich research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for how well documented the research process is in an article?\n\n\n\n\n\n\n\nErrington, Timothy M, Alexandria Denis, Nicole Perfito, Elizabeth Iorns, and Brian A Nosek. 2021. “Challenges for Assessing Replicability in Preclinical Cancer Biology.” Edited by Peter Rodgers and Eduardo Franco. eLife 10 (December): e67995. https://doi.org/10.7554/eLife.67995.",
     "crumbs": [
       "Getting started",
       "(In)visible steps"
+    ]
+  },
+  {
+    "objectID": "chapters/collaboration.html",
+    "href": "chapters/collaboration.html",
+    "title": "How do we collaborate?",
+    "section": "",
+    "text": "Who is a collaborator?\nWhen working in a team, it is always important to consider who your collaborators are. It helps you understand who you need to consult on important decisions, and who to give credit to.\nIn our experience, being generous about who is a collaborator helps people feel included. People are very sensitive to feeling socially rejected - and inviting them in can help prevent that feeling.\nIn articles, collaborators get consulted and you may get sign-off privileges",
+    "crumbs": [
+      "Getting started",
+      "How do we collaborate?"
+    ]
+  },
+  {
+    "objectID": "chapters/collaboration.html#inviting-a-collaborator-to-author-a-module",
+    "href": "chapters/collaboration.html#inviting-a-collaborator-to-author-a-module",
+    "title": "How do we collaborate?",
+    "section": "Inviting a collaborator to author a module",
+    "text": "Inviting a collaborator to author a module\n\n\n\n\n\n\nNote\n\n\n\nWe’ll assume you still have a draft sitting in your workspace (if not, create one similarly to the previous sections).\n\n\nWhen you have a module you are co-authoring, you can invite your collaborators in. Note: Co-authors are directly involved with the work. If they are involved in the larger project, but not the module itself, we recommend to focus on whose figurative hands are touching the outputs.\nFirst off, make sure they have a ResearchEquals account. You can check this by clicking the + Add Authors button.\n\nHere you can search for the name of your collaborator - you can invite one at a time.\n\nOnce you invited collaborators to the module, all authors must sign off on the current version of the module to be able to publish it. This will also be displayed at the top of the draft window:\n\nYou can approve the module from there yourself, and afterwards you will need to wait until the other authors sign off as well. Note that if anything is changed, everybody will need to approve again. You can always check the status of the approvals by clicking the Manage Authors button.\n\nThis way, you and your collaborators always know who consents to publishing, and who is not ready yet. Better to check in once too often, than once too little!\nIn the Manage Authors window, you can also adjust the authorship order. This is relevant to assign credit, and you get to decided what standards to use.",
+    "crumbs": [
+      "Getting started",
+      "How do we collaborate?"
+    ]
+  },
+  {
+    "objectID": "chapters/collaboration.html#summary",
+    "href": "chapters/collaboration.html#summary",
+    "title": "How do we collaborate?",
+    "section": "Summary",
+    "text": "Summary\nInviting a co-author and managing the publishing of a module is a bit more intricate than doing it on your own. This is because you want to be sure to be in agreement - ResearchEquals cannot ensure that but helps you manage active consent. Indirect collaboration is also possible, by building on each other’s modules - but we focused on direct collaboration in this section.",
+    "crumbs": [
+      "Getting started",
+      "How do we collaborate?"
+    ]
+  },
+  {
+    "objectID": "chapters/collections.html",
+    "href": "chapters/collections.html",
+    "title": "How do we curate research?",
+    "section": "",
+    "text": "Why curate?\nThe number of research articles, preprints, datasets, and other outputs is increasing quickly and is simply unmanageable. For example, in the past week alone (as of 2024-01-26), researchers published 62157 outputs. And this is not even the complete scholarly record, so it is an underestimate!\nOf course not all those outputs are relevant to you! Plus, we have search engines and other algorithms to help us find information. So why do we need curation to begin with?\nFinding information is about more than literally finding the information itself. It is about community - who is looking for similar things as me? Who is interested in the similar things? Algorithms do not connect us - they only point us in a direction.",
+    "crumbs": [
+      "Getting started",
+      "How do we curate research?"
+    ]
+  },
+  {
+    "objectID": "chapters/collections.html#why-curate",
+    "href": "chapters/collections.html#why-curate",
+    "title": "How do we curate research?",
+    "section": "",
+    "text": "Traditional journals\nJournals are a form of community based curation. A group of people with an overlapping expertise come together to ensure the contents are relevant to them and their target audience. You might even have some favorite journals based on the editors and the journal’s track record. All of this helps you assess whether the curation helps you find information and interesting people.\nJournals’ curation process is about people submitting original work to them, which gets reviewed, and maybe accepted. What gets accepted cannot be included in other journals. Moreover, their editorial boards are closely curated themselves - it is largely based on career status and reputation. As a result, the curation power goes to the ones with power.\n\n\nOverlay journals\nOverlay journals are an alternative mechanism for communities to curate. They allow anyone to start curating research outputs with their friends, colleagues, or on their own. They are curated lists of articles, datasets, and other outputs to signal where information around a theme can be found. It matters who is doing the curating, but the academic status question is thrown out of the window.\nIn an age where so many research outputs are published outside of traditional journals, true community curation can prove helpful. Want to keep a list of all the latest research you read? Overlay journal. Want to coordinate your lab reading group? Overlay journal. Want to keep a running list of all the outputs for a systematic review? Overlay journal.",
+    "crumbs": [
+      "Getting started",
+      "How do we curate research?"
+    ]
+  },
+  {
+    "objectID": "chapters/collections.html#how-to-curate",
+    "href": "chapters/collections.html#how-to-curate",
+    "title": "How do we curate research?",
+    "section": "How to curate?",
+    "text": "How to curate?\nVery few places facilitate the creation of overlay journals. On ResearchEquals, we call them “Collections” - and in this section you will see how to create and populate your own overlay journal.\nFirst off, click the collections button in the top-right corner.\n\nYou will then get the option to choose what kind of overlay journal you want to create. Each overlay journal gets a unique DOI, so that others can reference it as well.\n\nThe biggest differences between the options are in how many editors can be a part of your curating community, and whether you can accept outside submissions. More on that later - for now, create an individual collection for free.\n\nCurating an output\nAfter creating your collection, you will be redirected to the admin page for it. Here you can start adding new outputs to your collection.\n\nThis is possible via two routes.\n\nThe output is already known on ResearchEquals - find it through the search box\nThe output is not yet known on ResearchEquals - use the DOI to add it\n\nIf you are adding a DOI, it will verify whether it’s recognized and display you can add it. It will look like this:\n\n\n\n\n\n\n\nNote\n\n\n\nAs part of the getting started, you are able to get a free community collection by sending a concept to info@libscie.org. Include what you’ll be curating, who you will be curating with, and a list of five DOIs you want to include.\n\n\n\n\nAdding editors\nWhen you want to curate together with others, you can invite them as editors. You do this in a similar way to inviting them as a co-author on a module. Find the “Editor” section on the left, and find your future colleague! Note that they need an activated account on ResearchEquals.\n\nNote that this section will only appear if your collection allows you to add more editors. Otherwise you will see an “Upgrade” button.\n\n\nSubmitting to other collections\nIf a collection allows for community contributions, you will find the “Contributing” section on the right of the page. Here you can submit research outputs for consideration.\n\nYou do not need to be an original author on the output - you can submit whatever research output you think is of interest. It is up to the editors to decide. If your submission is accepted, you will be mentioned as a contributor as well.",
+    "crumbs": [
+      "Getting started",
+      "How do we curate research?"
+    ]
+  },
+  {
+    "objectID": "chapters/collections.html#summary",
+    "href": "chapters/collections.html#summary",
+    "title": "How do we curate research?",
+    "section": "Summary",
+    "text": "Summary\nNow you know how to create a Collection on ResearchEquals. This is a community based curation mechanism for all kinds of research outputs, which you can manage with your friends or colleagues.",
+    "crumbs": [
+      "Getting started",
+      "How do we curate research?"
     ]
   },
   {
@@ -165,7 +232,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Kircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185.",
+    "text": "Errington, Timothy M, Alexandria Denis, Nicole Perfito, Elizabeth Iorns,\nand Brian A Nosek. 2021. “Challenges for Assessing Replicability\nin Preclinical Cancer Biology.” Edited by Peter Rodgers and\nEduardo Franco. eLife 10 (December): e67995. https://doi.org/10.7554/eLife.67995.\n\n\nKircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185.",
     "crumbs": [
       "References"
     ]
