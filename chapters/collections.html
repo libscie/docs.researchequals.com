@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -218,23 +238,25 @@ ul.task-list li input[type="checkbox"] {
 <p>In the previous sections, we talked about ways to publish research modules using ResearchEquals. In this section, we will walk through the act of curating research outputs.</p>
 <section id="why-curate" class="level2">
 <h2 class="anchored" data-anchor-id="why-curate">Why curate?</h2>
-<p>The number of research articles, preprints, datasets, and other outputs is increasing quickly and is simply unmanageable. For example, in the past week alone (as of 2024-01-26), researchers published 62157 outputs. And this is not even the complete scholarly record, so it is an underestimate!</p>
-<p>Of course not all those outputs are relevant to you! Plus, we have search engines and other algorithms to help us find information. So why do we need curation to begin with?</p>
-<p>Finding information is about more than literally finding the information itself. It is about community - who is looking for similar things as me? Who is interested in the similar things? Algorithms do not connect us - they only point us in a direction.</p>
+<p>The number of research articles, preprints, datasets, and other outputs is increasing quickly and is simply unmanageable. For example, in the past week alone (as of 2024-01-26), researchers published 62160 outputs. And this is not even the complete scholarly record, so it is probably an underestimate.</p>
+<p>But of course not all those outputs are relevant to you! Plus, we have search engines and other algorithms to help us find information. So why do we need curation to begin with?</p>
+<p>Finding information is about more than literally finding the information itself. It is about community - who is looking for similar things as me? Who is interested in the similar things? Algorithms do not connect us - they only point us in a direction. Curation is what can connect us because the curated content tells us something about the people doing the curation.</p>
 <section id="traditional-journals" class="level3">
 <h3 class="anchored" data-anchor-id="traditional-journals">Traditional journals</h3>
-<p>Journals are a form of community based curation. A group of people with an overlapping expertise come together to ensure the contents are relevant to them and their target audience. You might even have some favorite journals based on the editors and the journal’s track record. All of this helps you assess whether the curation helps you find information and interesting people.</p>
-<p>Journals’ curation process is about people submitting original work to them, which gets reviewed, and maybe accepted. What gets accepted cannot be included in other journals. Moreover, their editorial boards are closely curated themselves - it is largely based on career status and reputation. As a result, the curation power goes to the ones with power.</p>
+<p>Journals are a form of community based curation. A group of people with an overlapping expertise come together to ensure the contents are relevant to them and their target audience. You might even have some favorite journals based on the editors and the journal’s track record. All of this helps you assess whether the curation helps you find relevant information and interesting people.</p>
+<p>Your favorite journal might be American Sociological Review, and mine Behavioral Research Methods. This tells us a lot about people, and who we would like to be connected with.</p>
+<p>Journals’ curation processes are (generally) about people submitting original work to them, which gets reviewed, and maybe accepted. What gets accepted cannot be included in other journals, because it operates under a “curation by publication” mechanism. Moreover, a journal’s editorial board is closely curated as well - it is largely based on career status and reputation. As a result, the curation power is restricted to those with status and reputation.</p>
 </section>
 <section id="overlay-journals" class="level3">
 <h3 class="anchored" data-anchor-id="overlay-journals">Overlay journals</h3>
-<p>Overlay journals are an alternative mechanism for communities to curate. They allow anyone to start curating research outputs with their friends, colleagues, or on their own. They are curated lists of articles, datasets, and other outputs to signal where information around a theme can be found. It matters who is doing the curating, but the academic status question is thrown out of the window.</p>
+<p>Overlay journals are an alternative mechanism for communities to curate outputs. They allow anyone to start curating research outputs with their friends, colleagues, or on their own. There is no gatekeeping of who is able to curate.</p>
+<p>Overlay journals are in essence curated lists of articles, datasets, and other outputs. This helps signal where relevant information around a theme can be found. As a result, it matters who is doing the curating and how they are doing it — less whether they have status and reputation.</p>
 <p>In an age where so many research outputs are published outside of traditional journals, true community curation can prove helpful. Want to keep a list of all the latest research you read? Overlay journal. Want to coordinate your lab reading group? Overlay journal. Want to keep a running list of all the outputs for a systematic review? Overlay journal.</p>
 </section>
 </section>
 <section id="how-to-curate" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-curate">How to curate?</h2>
-<p>Very few places facilitate the creation of <a href="#overlay-journals">overlay journals</a>. On ResearchEquals, we call them “Collections” - and in this section you will see how to create and populate your own overlay journal.</p>
+<p>Very few places facilitate the creation of <a href="#overlay-journals">overlay journals</a> <span class="citation" data-cites="Rousi_2022">(see also <a href="../references.html#ref-Rousi_2022" role="doc-biblioref">Rousi and Laakso 2022</a>)</span>. On ResearchEquals, we call them “Collections” - and in this section you will see how to create and populate your own overlay journal.</p>
 <p>First off, click the collections button in the top-right corner.</p>
 <p><img src="../public/Screenshot 2024-01-26 at 13.43.49.png" class="img-fluid"></p>
 <p>You will then get the option to choose what kind of overlay journal you want to create. Each overlay journal gets a unique DOI, so that others can reference it as well.</p>
@@ -283,6 +305,11 @@ Note
 <p>Now you know how to create a Collection on ResearchEquals. This is a community based curation mechanism for all kinds of research outputs, which you can manage with your friends or colleagues.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Rousi_2022" class="csl-entry" role="listitem">
+Rousi, Antti Mikael, and Mikael Laakso. 2022. <span>“Overlay Journals: A Study of the Current Landscape.”</span> <em>Journal of Librarianship and Information Science</em>, October, 096100062211252. <a href="https://doi.org/10.1177/09610006221125208">https://doi.org/10.1177/09610006221125208</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
