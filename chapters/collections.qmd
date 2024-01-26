@@ -26,27 +26,31 @@ total_results <- content_json$message$`total-results`
 
 ## Why curate?
 
-The number of research articles, preprints, datasets, and other outputs is increasing quickly and is simply unmanageable. For example, in the past week alone (as of `r current_date`), researchers published `r total_results` outputs. And this is not even the complete scholarly record, so it is an underestimate!
+The number of research articles, preprints, datasets, and other outputs is increasing quickly and is simply unmanageable. For example, in the past week alone (as of `r current_date`), researchers published `r total_results` outputs. And this is not even the complete scholarly record, so it is probably an underestimate.
 
-Of course not all those outputs are relevant to you! Plus, we have search engines and other algorithms to help us find information. So why do we need curation to begin with?
+But of course not all those outputs are relevant to you! Plus, we have search engines and other algorithms to help us find information. So why do we need curation to begin with?
 
-Finding information is about more than literally finding the information itself. It is about community - who is looking for similar things as me? Who is interested in the similar things? Algorithms do not connect us - they only point us in a direction.
+Finding information is about more than literally finding the information itself. It is about community - who is looking for similar things as me? Who is interested in the similar things? Algorithms do not connect us - they only point us in a direction. Curation is what can connect us because the curated content tells us something about the people doing the curation.
 
 ### Traditional journals
 
-Journals are a form of community based curation. A group of people with an overlapping expertise come together to ensure the contents are relevant to them and their target audience. You might even have some favorite journals based on the editors and the journal's track record. All of this helps you assess whether the curation helps you find information and interesting people. 
+Journals are a form of community based curation. A group of people with an overlapping expertise come together to ensure the contents are relevant to them and their target audience. You might even have some favorite journals based on the editors and the journal's track record. All of this helps you assess whether the curation helps you find relevant information and interesting people. 
 
-Journals' curation process is about people submitting original work to them, which gets reviewed, and maybe accepted. What gets accepted cannot be included in other journals. Moreover, their editorial boards are closely curated themselves - it is largely based on career status and reputation. As a result, the curation power goes to the ones with power.
+Your favorite journal might be American Sociological Review, and mine Behavioral Research Methods. This tells us a lot about people, and who we would like to be connected with.
+
+Journals' curation processes are (generally) about people submitting original work to them, which gets reviewed, and maybe accepted. What gets accepted cannot be included in other journals, because it operates under a "curation by publication" mechanism. Moreover, a journal's editorial board is closely curated as well - it is largely based on career status and reputation. As a result, the curation power is restricted to those with status and reputation.
 
 ### Overlay journals
 
-Overlay journals are an alternative mechanism for communities to curate. They allow anyone to start curating research outputs with their friends, colleagues, or on their own. They are curated lists of articles, datasets, and other outputs to signal where information around a theme can be found. It matters who is doing the curating, but the academic status question is thrown out of the window.
+Overlay journals are an alternative mechanism for communities to curate outputs. They allow anyone to start curating research outputs with their friends, colleagues, or on their own. There is no gatekeeping of who is able to curate. 
+
+Overlay journals are in essence curated lists of articles, datasets, and other outputs. This helps signal where relevant information around a theme can be found. As a result, it matters who is doing the curating and how they are doing it --- less whether they have status and reputation.
 
 In an age where so many research outputs are published outside of traditional journals, true community curation can prove helpful. Want to keep a list of all the latest research you read? Overlay journal. Want to coordinate your lab reading group? Overlay journal. Want to keep a running list of all the outputs for a systematic review? Overlay journal.
 
 ## How to curate?
 
-Very few places facilitate the creation of [overlay journals](#overlay-journals). On ResearchEquals, we call them "Collections" - and in this section you will see how to create and populate your own overlay journal.
+Very few places facilitate the creation of [overlay journals](#overlay-journals) [see also @Rousi_2022]. On ResearchEquals, we call them "Collections" - and in this section you will see how to create and populate your own overlay journal.
 
 First off, click the collections button in the top-right corner.
 

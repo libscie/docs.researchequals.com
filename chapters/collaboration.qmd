@@ -6,9 +6,9 @@ In the previous sections, you walked through modular thinking, how to create a m
 
 When working in a team, it is always important to consider who your collaborators are. It helps you understand who you need to consult on important decisions, and who to give credit to. 
 
-In our experience, being generous about who is a collaborator helps people feel included. People are very sensitive to feeling socially rejected - and inviting them in can help prevent that feeling. 
+In our experience, being generous about who is a collaborator helps people feel included. People are very sensitive to feeling socially rejected - and inviting them in can help prevent that feeling. If somebody handled the output at some point, they're probably a collaborator and should at least receive an invitation.[^1]
 
-In articles, collaborators get consulted and you may get sign-off privileges
+[^1]: Which they can then choose to decline 😊
 
 ## Inviting a collaborator to author a module
 
