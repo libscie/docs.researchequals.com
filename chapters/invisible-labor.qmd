@@ -1,6 +1,6 @@
 # (In)visible steps {.unnumbered}
 
-In every research project, countless of people and steps are involved. As we saw in [the "What are modules?" section](./modules.qmd), research is the process of documenting information. However, in that section we implied that the processes documented in articles are complete, even though unreliable and reconstructed. Well, the documented processes in articles are also not necessarily complete, because it is incredibly hard to go through all the steps to replicate the study [@ref] more often than not.
+In every research project, countless of people and steps are involved. As we saw in [the "What are modules?" section](./modules.qmd), research is the process of documenting information. However, in that section we implied that the processes documented in articles are complete, even though unreliable and reconstructed. Well, the documented processes in articles are also not necessarily complete, because it is incredibly hard to go through all the steps to replicate the study [e.g., @erringtonChallengesAssessingReplicability2021] more often than not.
 
 <!-- The ref is for the Reproducibility Project: Cancer Biology -->
 
@@ -17,7 +17,9 @@ In research, it is similar - what do we need to communicate to sufficiently docu
 You previously created a bucket of steps that are relevant for your research process (see [Exercise: Modular thinking](./exercise-modules.qmd)). Get the research steps you produced for that exercise to complete this section. 
 
 :::{.callout-note}
-Which research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for well documented the research process is?
+# Exercise 
+
+Which research steps can you (not) find in an average article in your field? Can you find more than 50% of the steps in an article? What does this mean for how well documented the research process is in an article?
 :::
 
 We recommend to separate them out visually, by sorting them left-right (or top-bottom).
