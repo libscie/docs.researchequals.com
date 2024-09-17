@@ -85,7 +85,7 @@ If you followed the steps above, your draft will now fulfill all requirements to
 When you click "Publish" you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero. 
 
 :::{.callout-warning}
-If you click "Publish" in the pop-up, the module is **irrevocably** published. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.
+If you click "Publish" in the pop-up, the module is **irrevocably** published and you will no longer be able to edit any part of the module. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.
 :::
 
 <!-- PWYW modal default €5 -->
