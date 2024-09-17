@@ -10,26 +10,6 @@
     ]
   },
   {
-    "objectID": "chapters/getting-started.html",
-    "href": "chapters/getting-started.html",
-    "title": "Getting started",
-    "section": "",
-    "text": "Required setup for publishing\nOnce you signed up, there are two important steps to complete before you can publish on ResearchEquals.",
-    "crumbs": [
-      "Getting started"
-    ]
-  },
-  {
-    "objectID": "chapters/getting-started.html#required-setup-for-publishing",
-    "href": "chapters/getting-started.html#required-setup-for-publishing",
-    "title": "Getting started",
-    "section": "",
-    "text": "Verify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed after a few seconds.\n\n\nAdd your names\nIn order to start publishing, you must add your first and last name for authoring. We do not force you to use your real name, although in most situations it is advisable.\nYou can do this by opening the settings by clicking the gear icon in the top right corner:",
-    "crumbs": [
-      "Getting started"
-    ]
-  },
-  {
     "objectID": "chapters/modules.html",
     "href": "chapters/modules.html",
     "title": "What are modules?",
@@ -122,7 +102,7 @@
     "href": "chapters/first-module.html#publish-your-draft",
     "title": "My first module",
     "section": "Publish your draft",
-    "text": "Publish your draft\nIf you followed the steps above, your draft will now fulfill all requirements to be published! You can check this at the top of your draft, where you will see the following green light once all requirements are completed.\n\n\nWhen you click “Publish” you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero.\n\n\n\n\n\n\nWarning\n\n\n\nIf you click “Publish” in the pop-up, the module is irrevocably published. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.\n\n\n\n\nAnd that’s it - that’s how simple it can be to publish a module. What about more complicated situations? We will dive into that together as well - for now, you have seen some of the core bits to hit the ground running.",
+    "text": "Publish your draft\nIf you followed the steps above, your draft will now fulfill all requirements to be published! You can check this at the top of your draft, where you will see the following green light once all requirements are completed.\n\n\nWhen you click “Publish” you will be asked to confirm. You get to select how much (if anything!) you would like to contribute to the project upon publishing. You can of course set this to zero.\n\n\n\n\n\n\nWarning\n\n\n\nIf you click “Publish” in the pop-up, the module is irrevocably published and you will no longer be able to edit any part of the module. A DOI will be assigned and it will be part of the literature. Only do this if you are serious about publishing, not to test it out.\n\n\n\n\nAnd that’s it - that’s how simple it can be to publish a module. What about more complicated situations? We will dive into that together as well - for now, you have seen some of the core bits to hit the ground running.",
     "crumbs": [
       "Getting started",
       "My first module"
@@ -246,6 +226,26 @@
     "text": "Errington, Timothy M, Alexandria Denis, Nicole Perfito, Elizabeth Iorns,\nand Brian A Nosek. 2021. “Challenges for Assessing Replicability\nin Preclinical Cancer Biology.” Edited by Peter Rodgers and\nEduardo Franco. eLife 10 (December): e67995. https://doi.org/10.7554/eLife.67995.\n\n\nKircz, Joost G. 1998. “Modularity: The Next Form of Scientific\nInformation Presentation?” Journal of Documentation 54\n(2): 210–35. https://doi.org/10.1108/EUM0000000007185.\n\n\nRousi, Antti Mikael, and Mikael Laakso. 2022. “Overlay Journals: A\nStudy of the Current Landscape.” Journal of Librarianship and\nInformation Science, October, 096100062211252. https://doi.org/10.1177/09610006221125208.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "chapters/getting-started.html",
+    "href": "chapters/getting-started.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "Required setup for publishing\nOnce you signed up, there are two important steps to complete before you can publish on ResearchEquals.",
+    "crumbs": [
+      "Getting started"
+    ]
+  },
+  {
+    "objectID": "chapters/getting-started.html#required-setup-for-publishing",
+    "href": "chapters/getting-started.html#required-setup-for-publishing",
+    "title": "Getting started",
+    "section": "",
+    "text": "Verify your email\nVerifying your email is as straightforward as it sounds. You need to check your email and click the provided link.\nSometimes the page gets stuck on a loading animation, but the verification will be completed after a few seconds.\n\n\nAdd your names\nIn order to start publishing, you must add your first and last name for authoring. We do not force you to use your real name, although in most situations it is advisable.\nYou can do this by opening the settings by clicking the gear icon in the top right corner:",
+    "crumbs": [
+      "Getting started"
     ]
   }
 ]
